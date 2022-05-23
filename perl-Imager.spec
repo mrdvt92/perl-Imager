@@ -11,8 +11,9 @@ BuildRequires:  perl(Exporter) >= 5.57
 BuildRequires:  perl(ExtUtils::MakeMaker)
 BuildRequires:  perl(Parse::RecDescent)
 BuildRequires:  perl(Scalar::Util) >= 1.00
-BuildRequires:  perl(Test::More) >= 0.99
+BuildRequires:  perl(Test::More)
 BuildRequires:  gcc
+BuildRequires:  make
 BuildRequires:  libpng-devel
 BuildRequires:  libtiff-devel
 #BuildRequires:  giflib-devel ### Not supported on RedHat 7 ###
