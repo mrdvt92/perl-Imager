@@ -7,6 +7,6 @@ This is a hack job but it works for my RedHat 7 system.  If I knew how to better
 
 ## To build
 
-Ensure that giflib-devel and t1lib-devel are NOT installed
+Ensure that giflib-devel and t1lib-devel are NOT installed.  I build on CentOS 7 and push to RedHat 7 so this is really only a concern for those of us who have crazy environments.
 
 
